@@ -1,18 +1,15 @@
 
-Conversation opened. 1 unread message.
 
-Skip to content
+
 Using Gmail with screen readers
-1,105 of 1,115
+
 project in py
 Inbox
-Deepali Agrawal <agrawal.deepali@rediffmail.com>
 	
 AttachmentsMon, 13 Sept 2021, 21:29
 	
-to me
 
-One attachment  • Scanned by Gmail
+
 	
 
 import time
